@@ -1,3 +1,5 @@
+## База данных lists.memo.ru (она же "база с диска") лежит вот тут в сконвертированном виде https://github.com/MemorialInternational/memorial_data/tree/master/data/lists.memo.ru-disk 
+
 memorial-data
 =============
 
