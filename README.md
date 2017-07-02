@@ -1,5 +1,7 @@
 ## База данных lists.memo.ru (она же "база с диска") лежит вот тут в сконвертированном виде https://github.com/MemorialInternational/memorial_data/tree/master/data/lists.memo.ru-disk 
 
+Она приведена в нормализованной форме в архиве `lists.memo.ru-disk.zip` (дамп базы с диска), а также в виде единой таблицы в файле `memorial_lists.tsv.7z` (сконвертировано из дампа - см. [замечания о процессе конвертации](https://github.com/VorontsovIE/memorial_data_FULL_DB/blob/master/data/lists.memo.ru-disk/conversion_notes.md).
+
 memorial-data
 =============
 
